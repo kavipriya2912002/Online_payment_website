@@ -43,10 +43,6 @@
 
 <body style="font-family: 'Inter', sans-serif;" class="text-black bg-[#F0FBFF] ">
 
-  <!-- *************************** -->
-  <!-- Header Section -->
-  <!-- *************************** -->
-
   <header class="shadow-lg relative bg-white">
     <div class="flex justify-between items-center max-w-screen-2xl mx-auto h-24 px-4">
       <div>
